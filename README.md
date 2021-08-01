@@ -11,6 +11,7 @@ Junior Web Developer transition from Computer technician. Working as a computer 
 
 
 ### Projects
+Tinyapp Register Page ![alt](https://raw.githubusercontent.com/jlafleur93/tinyapp/master/public/assets/Register_Splash.png)
 
 
 ### Contact me?
