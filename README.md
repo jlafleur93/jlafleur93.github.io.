@@ -10,7 +10,7 @@ Junior Web Developer transition from Computer technician. Working as a computer 
 
 
 
-###Projects
+### Projects
 
 
 ### Contact me?
